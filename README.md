@@ -1,7 +1,7 @@
 # Group Benefits Experience Analysis (Brief Report)  
 
 ## 1. Executive Summary
-Overall experience for the group is **favourable for Health and Dental** benefits, with experience costs consistently **below manual calculations across all classes and regions**.  
+Overall experience for the group is **favourable for Health and Dental** benefits, with experience costs consistently **below manual assumptions across all classes and regions**.  
 However, **STD and LTD show signs of unfavourable experience in a few segments**, specifically by **Class A** (Office workers), while Class B (Field workers) are mainly favourable due to limited claims recorded.
 
 ---
