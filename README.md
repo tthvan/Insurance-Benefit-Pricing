@@ -37,7 +37,7 @@ Dental experience is **favourable and predictable**, with patterns are consisten
 
 ---
 
-## 4. Short-Term Disability (STD) — Key Risk Driver  
+## 4. Short-Term Disability (STD) - Key Risk Driver  
 ![STD](https://github.com/tthvan/Insurance-Benefit-Pricing/blob/main/visualizations/RatioPerBenefit.png?raw=true)
 
 STD experience shows patterns among **segmentation by class**:
@@ -58,7 +58,7 @@ STD losses are **concentrated within Class A**, particularly in **Quebec**, whic
 
 ---
 
-## 5. Long-Term Disability (LTD) — Volatility Observed
+## 5. Long-Term Disability (LTD) - Volatility Observed
 - Unfavourable LTD experience is observed **only in Class A – Ontario**, with an Exp/Manual ratio of **~1.64**.  
 - All other Class × Region segments show **no LTD claims** over the period.
 
