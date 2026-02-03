@@ -11,13 +11,16 @@ However, **STD and LTD show signs of unfavourable experience in a few segments**
 
 - Ontario has the largest share of exposures (covered lives).  
 - Class A consistently represents a larger portion of exposure compared to Class B.  
+- Employees from 25-54 account for nearly 90% of total covered lives.
+
+
+![Low claims](https://github.com/tthvan/Insurance-Benefit-Pricing/blob/main/visualizations/Low%20claims.png?raw=true)
+
 - Health and Dental experience results are considered **reliable** given exposure size, while **STD and LTD results should be interpreted with caution** due to lower claim amounts and higher volatility.
 
 ---
 
 ## 3. Experience vs Manual
-![Compare](https://github.com/tthvan/Insurance-Benefit-Pricing/blob/main/visualizations/ClassVSRegion.png?raw=true)
-
 ### Health
 - Experience cost per life ranges from **~36 to 40**, compared to manual assumptions of **85–100**.  
 - Exp/Manual ratios remain consistently low (**~0.38–0.44**) across all regions and classes.
@@ -36,7 +39,6 @@ Dental experience is **favourable and predictable**, with patterns are consisten
 
 ## 4. Short-Term Disability (STD) — Key Risk Driver  
 ![STD](https://github.com/tthvan/Insurance-Benefit-Pricing/blob/main/visualizations/RatioPerBenefit.png?raw=true)
-*(Figure 2: Average Exp/Manual Ratio by Region and Class)*
 
 STD experience shows patterns among **segmentation by class**:
 
@@ -56,7 +58,6 @@ STD losses are **concentrated within Class A**, particularly in **Quebec**, whic
 ---
 
 ## 5. Long-Term Disability (LTD) — Volatility Observed
-![Low claims](https://github.com/tthvan/Insurance-Benefit-Pricing/blob/main/visualizations/Low%20claims.png?raw=true)
 - Unfavourable LTD experience is observed **only in Class A – Ontario**, with an Exp/Manual ratio of **~1.64**.  
 - All other Class × Region segments show **no LTD claims** over the period.
 
@@ -66,6 +67,7 @@ LTD experience lacks reliability with low exposures level. Observed losses are l
 ---
 
 ## 6. Key Drivers Identified
+![Compare](https://github.com/tthvan/Insurance-Benefit-Pricing/blob/main/visualizations/ClassVSRegion.png?raw=true)
 1. **STD claims within Class A**, highest and more highlighted in Quebec  
 2. **Concentration of LTD losses** in a single segment (Class A – ON)  
 3. Strong and consistent **favourable experience in Health and Dental**
