@@ -7,7 +7,7 @@ However, **STD and LTD show signs of unfavourable experience in a few segments**
 ---
 
 ## 2. Exposure Overview
-![Demographic](https://github.com/tthvan/Insurance-Benefit-Pricing/blob/main/visualizations/Demographic.png)
+![Demographic](https://github.com/tthvan/Insurance-Benefit-Pricing/blob/main/visualizations/Demographic.png?raw=true)
 
 - Ontario has the largest share of exposures (covered lives).  
 - Class A consistently represents a larger portion of exposure compared to Class B.  
@@ -16,7 +16,7 @@ However, **STD and LTD show signs of unfavourable experience in a few segments**
 ---
 
 ## 3. Experience vs Manual
-![Compare](https://github.com/tthvan/Insurance-Benefit-Pricing/blob/main/visualizations/ClassVSRegion.png)
+![Compare](https://github.com/tthvan/Insurance-Benefit-Pricing/blob/main/visualizations/ClassVSRegion.png?raw=true)
 
 ### Health
 - Experience cost per life ranges from **~36 to 40**, compared to manual assumptions of **85–100**.  
@@ -35,7 +35,7 @@ Dental experience is **favourable and predictable**, with patterns are consisten
 ---
 
 ## 4. Short-Term Disability (STD) — Key Risk Driver  
-![STD](https://github.com/tthvan/Insurance-Benefit-Pricing/blob/main/visualizations/RatioPerBenefit.png)
+![STD](https://github.com/tthvan/Insurance-Benefit-Pricing/blob/main/visualizations/RatioPerBenefit.png?raw=true)
 *(Figure 2: Average Exp/Manual Ratio by Region and Class)*
 
 STD experience shows patterns among **segmentation by class**:
@@ -56,7 +56,7 @@ STD losses are **concentrated within Class A**, particularly in **Quebec**, whic
 ---
 
 ## 5. Long-Term Disability (LTD) — Volatility Observed
-![Low claims](https://github.com/tthvan/Insurance-Benefit-Pricing/blob/main/visualizations/Low%20claims.png)
+![Low claims](https://github.com/tthvan/Insurance-Benefit-Pricing/blob/main/visualizations/Low%20claims.png?raw=true)
 - Unfavourable LTD experience is observed **only in Class A – Ontario**, with an Exp/Manual ratio of **~1.64**.  
 - All other Class × Region segments show **no LTD claims** over the period.
 
