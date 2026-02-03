@@ -41,6 +41,7 @@ Dental experience is **favourable and predictable**, with patterns are consisten
 ![STD](https://github.com/tthvan/Insurance-Benefit-Pricing/blob/main/visualizations/RatioPerBenefit.png?raw=true)
 
 STD experience shows patterns among **segmentation by class**:
+![STD](https://github.com/tthvan/Insurance-Benefit-Pricing/blob/main/visualizations/STD_deepdive.png?raw=true)
 
 - **Class A**  
   - Unfavourable across all regions:  
