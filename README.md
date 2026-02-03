@@ -76,7 +76,7 @@ LTD experience lacks reliability with low exposures level. Observed losses are l
 ---
 
 ## 7. Recommendations
-- **STD**: Consider a **targeted rate adjustment ** for **Class A**, particularly in Quebec.  
+- **STD**: Consider a **targeted rate adjustment** for **Class A**, particularly in Quebec.  
 
 - **LTD**: Monitor experience over an additional period to assess credibility.
 
