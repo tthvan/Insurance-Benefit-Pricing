@@ -7,6 +7,8 @@ However, **STD and LTD show signs of unfavourable experience in a few segments**
 ---
 
 ## 2. Exposure Overview
+![Demographic](https://example.com/images/picture.jpg)
+
 - Ontario has the largest share of exposures (covered lives).  
 - Class A consistently represents a larger portion of exposure compared to Class B.  
 - Health and Dental experience results are considered **reliable** given exposure size, while **STD and LTD results should be interpreted with caution** due to lower claim amounts and higher volatility.
